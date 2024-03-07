@@ -1,0 +1,98 @@
+
+.files__container_{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #fff;
+    width: 27rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    z-index: -2 !important;
+}
+
+.files__header__{
+    text-align: center !important;
+    padding: 30px 0px !important;
+}
+
+.mod_log{
+    font-size: 32px;
+    color: rgb(0, 98, 255);
+    cursor: default;
+}
+
+.five{
+    font-size: 19.2px;
+    font-family: sans-serif;
+    color: #222;
+}
+
+.expa_{
+    font-size: 13px;
+    color: #666;
+}
+
+.hhrr{
+    margin-top: -0.3em;
+}
+
+.portable___document__file_{
+    width: 40px;
+}
+
+.subj___ct{
+    font-size: 14.3px;
+    font-weight: bold;
+    color: #222;
+}
+
+.file_siz{
+    font-size: 11px;
+}
+
+.donldddd__vg_{
+    color: rgb(9, 114, 220);
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.txt__cntnt__{
+    padding-left: 1em;
+}
+
+.wrp__{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 9px 15px 20px;
+}
+
+.files__cntnt___{
+    display: flex;
+    align-items: center;
+}
+
+.files__footer__{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 0px;
+}
+
+.btnnnnnn{
+    border: none;
+    padding: 0.7rem 1.2rem;
+    border-radius: 5px;
+    background-color: #2f70df;
+    color: #fff;
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+.sacld{
+    color: #2f70df;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 15px;
+}
